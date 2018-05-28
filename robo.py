@@ -45,7 +45,7 @@ class speechrobot:
         self.brp2list2 = ["ugly", "idiot", "hooligan", "white trash", "total douchebag"]
 
         self.p1list1 = []
-        self.p1list1 = []
+        self.p2list2 = []
 
             
     def generator(self):
