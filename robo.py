@@ -42,7 +42,7 @@ class speechrobot:
         self.grp2list2 = ["awesome", "real kind guy/girl", "great person",  "accomplished person", "talented indivisual"]
 
         self.brp1list1 = ["Hey super", "Hey", "How are you", "You're very", "Why do you have to be such a"]
-        self.brp2list2 = ["ugly", "idiot", "hooligan", "white trash", "total douchebag"]
+        self.brp2list2 = ["ugly", "idiot", "hooligan", "trash bag", "mean person"]
 
         self.p1list1 = []
         self.p2list2 = []
